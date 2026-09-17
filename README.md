@@ -2,7 +2,6 @@
 
 FreshCart is a full-featured e-commerce web application built with **Next.js**, inspired by the [Route Academy](https://ecommerce.routemisr.com) e-commerce training platform. It's a modern online store where users can browse products, manage a cart and wishlist, and complete the checkout flow.
 
-Live demo reference: https://freshcart-route.vercel.app/
 
 ## Tech Stack
 
