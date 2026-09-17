@@ -35,9 +35,6 @@ FreshCart is a full-featured e-commerce web application built with **Next.js**, 
 - About page
 - Shipping info, returns & refunds, privacy policy, terms of service
 
-## Project Status
-
-🚧 **In progress** — project structure and pages are currently being built out to match the reference demo above. This README will be updated as features are implemented.
 
 ## Getting Started
 
