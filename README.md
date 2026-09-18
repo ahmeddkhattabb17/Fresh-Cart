@@ -1,46 +1,45 @@
-# Fresh Cart
+# FreshCart 🛒
 
-FreshCart is a full-featured e-commerce web application built with **Next.js**, inspired by the [Route Academy](https://ecommerce.routemisr.com) e-commerce training platform. It's a modern online store where users can browse products, manage a cart and wishlist, and complete the checkout flow.
+A modern e-commerce frontend built with Next.js, focused on product discovery, shopping, authentication, wishlist management, cart flows, and a polished responsive experience.
 
+## 🌐 Live Demo
+https://freshcart-route.vercel.app/
 
-## Tech Stack
+## ✨ Features
+- Authentication and account flows
+- Product browsing and discovery
+- Categories and brands
+- Product details
+- Search and filtering
+- Shopping cart
+- Wishlist
+- Checkout flow
+- Orders and account pages
+- Responsive UI
+- API-driven data
 
-- **Framework:** Next.js
-- **Backend/API:** Route Academy E-Commerce API (`ecommerce.routemisr.com`)
-- **Styling:** *(TBD — Tailwind CSS / CSS Modules)*
-- **State Management:** *(TBD — Context API / Redux / Zustand)*
+## 🛠️ Tech Stack
+- Next.js
+- React
+- Route Academy E-Commerce API
+- Modern responsive frontend tooling
 
-## Planned Features
+## 🏗️ Architecture
+The frontend is organized around pages/components and API-driven data flows, separating presentation from application logic and remote data access.
 
-### Storefront
-- Home page with hero banner, deals of the day, new arrivals, and featured products
-- Shop / Products listing page with filtering and sorting
-- Product details page (images, price, rating, reviews, add to cart)
-- Categories page and category-filtered product views
-- Brands page and brand-filtered product views
-
-### Shopping
-- Shopping cart (add, update quantity, remove items)
-- Wishlist (add/remove favorite products)
-- Checkout flow with order summary
-
-### Authentication & Account
-- Sign up / Login
-- Forgot password / reset password flow
-- User profile page
-- Order history
-
-### Other Pages
-- Contact / Support page
-- About page
-- Shipping info, returns & refunds, privacy policy, terms of service
-
-
-## Getting Started
-
+## 🚀 Getting Started
 ```bash
 npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the app.
+Open `http://localhost:3000`.
+
+## 📸 Screenshots
+The live demo above is the primary visual reference. A dedicated screenshot gallery can be added to the repository for recruiter-friendly browsing.
+
+## 🎯 Portfolio Focus
+Real-world e-commerce patterns, API integration, authentication, cart/wishlist state, responsive UI, routing, and production-oriented frontend structure.
+
+## 👤 Author
+Ahmed Khattab — Frontend Developer
