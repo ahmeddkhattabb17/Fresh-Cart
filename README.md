@@ -1,45 +1,50 @@
-# FreshCart 🛒
+# Fresh Cart
 
-A modern e-commerce frontend built with Next.js, focused on product discovery, shopping, authentication, wishlist management, cart flows, and a polished responsive experience.
+A modern e-commerce frontend built with Next.js, focused on product discovery, API-driven interfaces, authentication flows, wishlist and cart interactions, checkout, and responsive shopping experiences.
 
-## 🌐 Live Demo
-https://freshcart-route.vercel.app/
+## Overview
 
-## ✨ Features
-- Authentication and account flows
-- Product browsing and discovery
+Fresh Cart was built to explore the structure and interaction patterns of a real-world e-commerce product. The project emphasizes reusable UI, remote data integration, stateful shopping flows, and responsive behavior across devices.
+
+## Features
+
+- Product discovery and browsing
 - Categories and brands
-- Product details
-- Search and filtering
-- Shopping cart
+- Product details and related products
+- Search, filtering, and sorting
+- Authentication interfaces
+- Shopping cart and quantity management
 - Wishlist
 - Checkout flow
 - Orders and account pages
-- Responsive UI
-- API-driven data
+- Responsive layouts
+- Loading, empty, and feedback states
+- API-driven data integration
 
-## 🛠️ Tech Stack
+## Technology
+
 - Next.js
 - React
+- JavaScript
 - Route Academy E-Commerce API
-- Modern responsive frontend tooling
+- Responsive Web Design
 
-## 🏗️ Architecture
-The frontend is organized around pages/components and API-driven data flows, separating presentation from application logic and remote data access.
+## Architecture
 
-## 🚀 Getting Started
-```bash
-npm install
-npm run dev
-```
+The frontend is organized around reusable components, page-level experiences, and API-driven data flows. Application logic and presentation are kept structured so features can be extended without turning individual pages into monolithic components.
 
-Open `http://localhost:3000`.
+## Development
 
-## 📸 Screenshots
-The live demo above is the primary visual reference. A dedicated screenshot gallery can be added to the repository for recruiter-friendly browsing.
+Install dependencies with `npm install`, then run `npm run dev` and open `http://localhost:3000`.
 
-## 🎯 Portfolio Focus
-Real-world e-commerce patterns, API integration, authentication, cart/wishlist state, responsive UI, routing, and production-oriented frontend structure.
+## Live Demo
 
-## 👤 Author
-Ahmed Khattab — Frontend Developer
+https://freshcart-route.vercel.app/
+
+## Portfolio Focus
+
+Fresh Cart demonstrates practical e-commerce patterns, API integration, responsive UI, authentication flows, cart and wishlist interactions, routing, and production-oriented frontend organization.
+
+## Author
+
+**Ahmed Khattab** — Front-End Web Developer
