@@ -43,7 +43,11 @@ https://freshcart-route.vercel.app/
 
 ## Portfolio Focus
 
-Fresh Cart demonstrates practical e-commerce patterns, API integration, responsive UI, authentication flows, cart and wishlist interactions, routing, and production-oriented frontend organization.
+Fresh Cart demonstrates practical e-commerce patterns, API integration, responsive UI implementation, authentication flows, cart and wishlist interactions, routing, and production-oriented frontend organization.
+
+## Credits
+
+The UI/UX design and e-commerce API were provided by Route Academy. The frontend implementation, integration, responsive behavior, and application interactions were developed by Ahmed Khattab.
 
 ## Author
 
