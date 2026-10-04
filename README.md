@@ -1,10 +1,10 @@
 # Fresh Cart
 
-A modern e-commerce frontend built with Next.js, focused on product discovery, API-driven interfaces, authentication flows, wishlist and cart interactions, checkout, and responsive shopping experiences.
+A modern e-commerce frontend built with Next.js and TypeScript, focused on product discovery, API-driven interfaces, authentication flows, wishlist and cart interactions, checkout, responsive shopping experiences, and an admin dashboard.
 
 ## Overview
 
-Fresh Cart was built to explore the structure and interaction patterns of a real-world e-commerce product. The project emphasizes reusable UI, remote data integration, stateful shopping flows, and responsive behavior across devices.
+Fresh Cart was built to explore the structure and interaction patterns of a real-world e-commerce product. The project emphasizes reusable UI, remote data integration, stateful shopping flows, responsive behavior across devices, and practical dashboard management.
 
 ## Features
 
@@ -17,6 +17,7 @@ Fresh Cart was built to explore the structure and interaction patterns of a real
 - Wishlist
 - Checkout flow
 - Orders and account pages
+- Admin dashboard
 - Responsive layouts
 - Loading, empty, and feedback states
 - API-driven data integration
@@ -24,14 +25,14 @@ Fresh Cart was built to explore the structure and interaction patterns of a real
 ## Technology
 
 - Next.js
+- TypeScript
 - React
-- JavaScript
 - Route Academy E-Commerce API
 - Responsive Web Design
 
 ## Architecture
 
-The frontend is organized around reusable components, page-level experiences, and API-driven data flows. Application logic and presentation are kept structured so features can be extended without turning individual pages into monolithic components.
+The frontend is organized around reusable components, page-level experiences, API-driven data flows, and dashboard functionality. Application logic and presentation are kept structured so features can be extended without turning individual pages into monolithic components.
 
 ## Development
 
@@ -43,11 +44,11 @@ https://freshcart-route.vercel.app/
 
 ## Portfolio Focus
 
-Fresh Cart demonstrates practical e-commerce patterns, API integration, responsive UI implementation, authentication flows, cart and wishlist interactions, routing, and production-oriented frontend organization.
+Fresh Cart demonstrates practical e-commerce patterns, API integration, responsive UI implementation, authentication flows, cart and wishlist interactions, routing, TypeScript development, and admin dashboard implementation.
 
 ## Credits
 
-The UI/UX design and e-commerce API were provided by Route Academy. The frontend implementation, integration, responsive behavior, and application interactions were developed by Ahmed Khattab.
+The UI/UX design and e-commerce API were provided by Route Academy. The frontend implementation, integration, responsive behavior, dashboard functionality, and application interactions were developed by Ahmed Khattab.
 
 ## Author
 
