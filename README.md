@@ -46,6 +46,10 @@ https://freshcart-route.vercel.app/
 
 Fresh Cart demonstrates practical e-commerce patterns, API integration, responsive UI implementation, authentication flows, cart and wishlist interactions, routing, TypeScript development, and admin dashboard implementation.
 
+## Academic Context
+
+This project was developed as part of a front-end development assignment at Route Academy. It was created for educational purposes to practice and apply frontend development concepts in a project-based setting.
+
 ## Credits
 
 The UI/UX design and e-commerce API were provided by Route Academy. The frontend implementation, integration, responsive behavior, dashboard functionality, and application interactions were developed by Ahmed Khattab.
